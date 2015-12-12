@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+
+    "name": "Convertible",
+    "description": "Different types of number conversions.",
+    "version": "1.0",
+    "icons": {"128":"programmer.png"},
+
+    "browser_action": {
+        "default_title": "Convertible",
+        "default_icon": "programmer.png",
+        "default_popup": "popup.html"
+    }
+}

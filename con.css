@@ -1,0 +1,27 @@
+html {
+    width: 200px;
+}
+
+body {
+    margin:10px;
+}
+
+input {
+    border-radius: 15px;
+}
+
+h3 {
+    border-style: outset;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+#heady {
+    text-align: center;
+    margin-bottom: 7px;
+}
+
+#search {
+    border-radius: 10px;
+}
+
